@@ -40,14 +40,14 @@ h2 {
 .list-social-icons a {
   color: #495057; }
   .list-social-icons a:hover {
-    color: #BD5D38; }
+    color: #6238bd; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #BD5D38; }
+    color: #5738bd; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -70,7 +70,7 @@ h2 {
       #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: 0.5rem solid rgba(255, 255, 255, 0.2); }
+        border: 0.5rem solid rgba(227, 195, 16, 0.863); }
     #sideNav .navbar-collapse {
       display: flex;
       align-items: flex-start;
